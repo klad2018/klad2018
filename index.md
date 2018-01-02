@@ -1,8 +1,9 @@
 ## Добро пожаловать на KLAD2018!
 
-You can use the [editor on GitHub](https://github.com/klad2018/klad2018/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+У нас лучшие клады в вашем городе по доступным ценам! 
+Наш телеграм **@klad_2018**!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+_Будьте внимательнее, скопируйте **@klad_2018** и выберете аккаунт именно с таким ником. И помните, у нас нет ботов. Продажи только в телегам!_ 
 
 ### Markdown
 
