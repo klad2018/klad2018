@@ -8,7 +8,7 @@ _Будьте внимательнее, скопируйте **@klad_2018** и �
 
 ### Товары
 
-Для покупки или пишите в телеграм **@klad_2018**.  
+Для покупки пишите в телеграм **@klad_2018**.  
 
 ```markdown
 
@@ -28,10 +28,24 @@ _Будьте внимательнее, скопируйте **@klad_2018** и �
 ```
 
 
-### Jekyll Themes
+### Где мы работаем?
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/klad2018/klad2018/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+```markdown
+## Кисловодск 
+## Пятигорск 
+## Будённовск
+## Георгиевск
+## Ессентуки
+## Михайловск
+## Светлоград
+## Новопавловск
+## Невинномысск
+## Ставрополь
+## Железноводск
+## Минеральные Воды
 
-### Support or Contact
+```
+
+### Теги по которым нас находят
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
